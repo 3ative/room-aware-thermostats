@@ -10,8 +10,7 @@ Un-ZIP to get the file:
 
 ## 
 
-# Watch the Demo and step-by-step tutorial here: https://youtu.be/25-VCm66tVs
-
+___
 #### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
 | Buy me a Coffee | PATREON |
 |-----------------|---------|
